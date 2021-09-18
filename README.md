@@ -1,6 +1,6 @@
-# python-template-repository
+# Metric-Learning
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+本リポジトリはMetric-Learning のexample リポジトリです。
 
 ## リポジトリ構成
 
@@ -22,31 +22,6 @@
 │   └── __init__.py
 └── work
 ```
-
-## 環境詳細
-
-- Python : 3.9.6
-
-## 事前準備
-
-- Docker インストール
-
-## 環境構築
-
-- Dockderfileがあるホスト側のフォルダへ移動（例：Desktop/python-template-repository）
-
-```
-cd Desktop/python-template-repository
-```
-
-- Dockerによる環境構築（フォルダをマウント：Desktop/python-template-repository）
-
-```
-docker-compose up --build
-```
-
-- ブラウザーを立ち上げてlocalhost:8888へアクセス
-- ローカルフォルダがマウントされている
 
 ## 動作環境
 
