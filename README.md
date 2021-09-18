@@ -23,10 +23,6 @@
 └── work
 ```
 
-## 動作環境
+## 環境詳細
 
-マシンスペック（Mac)
-
-- MacBook Air (Retina, 13-inch, 2018)
-- 1.6 GHz デュアルコアIntel Core i5
-- 8 GB 2133 MHz LPDDR3
+- Google Colab
